@@ -1,0 +1,16 @@
+{
+  "name": "mynpm",
+  "version": "0.0.1",
+  "description": "私有仓库",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.dev.tencent.com/Toyman/mynpm.git"
+  },
+  "author": "Mr.Ypeng",
+  "license": "MIT",
+  "dependencies": {}
+}
